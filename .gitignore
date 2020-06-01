@@ -1,0 +1,12 @@
+# package directories
+node_modules
+jspm_packages
+
+# secrets
+secrets.dev.json
+
+# hide test event for now
+event.json
+
+# Serverless directories
+.serverless
